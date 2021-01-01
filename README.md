@@ -4,3 +4,4 @@
 
 * use scrapy
 * can auto turn the page to crawl web pages
+* output to print on the data.json
